@@ -9,3 +9,7 @@ REST APIS:
 H2 DB config:
 
 URL: http://localhost:8080/h2-console
+
+Hazelcast cache: A data grid is a superset of a distributed cache. A distributed cache is typically used only for storing and retrieving key-value pairs spread across caching servers.
+
+checkout HazelcastCacheConbfig class for configuration.
